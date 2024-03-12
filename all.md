@@ -30,3 +30,5 @@ command ten : `git add .`
 ---
 command eleven : `git command -m "upload 2"`
 
+---
+command twelve : `git push --set-upstream origin ibraBranch`
